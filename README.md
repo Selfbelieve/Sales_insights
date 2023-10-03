@@ -1,7 +1,7 @@
-# Sales_insights
+
 #  Project : Sales Insights of Data Analysis-AtliQ Hardware
 
-![Sales insights AtliQ](https://user-images.githubusercontent.com/118357991/230730818-34393de8-2b5c-46da-83f1-be293b0107b4.png)
+
 
 ## Table of Contents:
 
@@ -235,16 +235,6 @@ Shows visualizations from Sales insights :
 
 | Key Insights |
 | ----------- |
-|![Sales Insights data analysis-AtliQ_page-0001](https://user-images.githubusercontent.com/118357991/234025264-f5f1d7af-2ead-4d9a-b8ae-7524d200b7dd.jpg)|
-
-
-| Profit Analysis |
-| ----------- |
-|![Sales Insights data analysis-AtliQ_page-0002](https://user-images.githubusercontent.com/118357991/234025629-3c2e3dcf-77fb-4c20-acdb-3f92604d1292.jpg)|
-
-| Profit Analysis |
-| ----------- |
-|![Sales Insights data analysis-AtliQ_page-0003](https://user-images.githubusercontent.com/118357991/234025913-3a09f076-e1c7-40a1-9983-d2c8767f252c.jpg)|
 
 ## Tools, Software and Libraries :
 
@@ -256,8 +246,7 @@ Shows visualizations from Sales insights :
 
 3.DAX Language 
 
-## References :
-https://codebasics.io/panel/webinars/purchases
+
 
 https://www.sqlbi.com/learn/introducing-dax-video-course/0/
 
