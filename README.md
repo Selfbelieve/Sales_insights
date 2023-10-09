@@ -36,7 +36,7 @@ All he wants is a simple data visualization tool which he can access on daily ba
      **3. End result :-** An automated dashboard providing quick and latest insights in order to support Data driven decision making.
      
      **4. Success Criteria :-**
-     - Dahboard uncovering sales order insights with latest data available
+     - Dashboard uncovering sales order insights with latest data available
      - Sales team able to take better decisions and prove 10% cost saving of total spend.
      - Sales analysis stop data gathering manually in order to save 20% business time andreinvest it value added activity.
    
