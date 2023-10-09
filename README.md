@@ -33,7 +33,7 @@ All he wants is a simple data visualization tool which he can access on daily ba
      - Data and Analytics Team
      - IT 
      
-     **3. End result :-** An automated dashboard providing quick and latest sights in order to support Data driven decision making.
+     **3. End result :-** An automated dashboard providing quick and latest insights in order to support Data driven decision making.
      
      **4. Success Criteria :-**
      - Dahboard uncovering sales order insights with latest data available
