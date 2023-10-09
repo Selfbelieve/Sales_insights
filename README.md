@@ -165,7 +165,7 @@ Convert USD into INR in the transaction’s table: the AtliQ Hardware only works
 
 In power query editore finding the total values having USD as currency.
 
-     `=Table.AddColumn(#"Filtered Rows", "norm_sales_amount",each if [currency] = "USD" then [sales_amount]*75 else [sales_amount]`
+     `=Table.AddColumn(#"Filtered Rows", "norm_sales_amount",each if [currency] = "USD" then [sales_amount]*83else [sales_amount]`
  
  using this correct formula of the conversion,and converted the USD currency into INR.
  
