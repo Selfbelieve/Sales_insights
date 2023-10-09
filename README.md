@@ -20,7 +20,7 @@ All he wants is a simple data visualization tool which he can access on daily ba
   It is a project management tool which consists of four components-
   
      - Purpose - (What to do exactly)
-     - Stackholder - (Who will be involved)
+     - Stakeholder - (Who will be involved)
      - End result - (What do you want to achieve)
      - Success Criteria - (Cost optimization and time save)
  - #### AIMS Grid -
